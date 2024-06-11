@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @jaobix
+- 🌱 I’m currently learning HTML/CSS
