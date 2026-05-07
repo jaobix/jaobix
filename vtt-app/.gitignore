@@ -1,0 +1,6 @@
+vtt-app/backend/node_modules/
+vtt-app/frontend/node_modules/
+.env
+.DS_Store
+dist/
+database.sqlite

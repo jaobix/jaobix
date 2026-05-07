@@ -1,0 +1,7 @@
+node_modules/
+.env
+node_modules/
+vtt-app/backend/node_modules/
+vtt-app/frontend/node_modules/
+preview.log
+vtt-app/backend/server.log
